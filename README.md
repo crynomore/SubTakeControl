@@ -1,4 +1,4 @@
-# Subdomain Takeover Checker
+# SubTakeControl
 
 This script checks for subdomain takeover vulnerabilities on GitHub Pages.
 
@@ -7,7 +7,7 @@ This script checks for subdomain takeover vulnerabilities on GitHub Pages.
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/subdomain-takeover-checker.git
+git clone https://github.com/crynomor3/SubTakeControl.git
 cd subdomain-takeover-checker
 ```
 
@@ -19,7 +19,7 @@ pip install requests python-telegram-bot
 ## Usage
 1. Run the script:
    ```bash
-   python subdomain_takeover_checker.py
+   python SubTakeControl.py
    ```
 2. Enter the required details:
   - **Domain**: The domain you want to check for subdomain takeover vulnerabilities.
@@ -36,7 +36,7 @@ pip install requests python-telegram-bot
 ## Example:
 
 ```bash
-python subdomain_takeover_checker.py
+python SubTakeControl.py
 ```
 Enter the domain and tokens as prompted. The script will monitor and attempt to take over vulnerable subdomains
 ```bash
