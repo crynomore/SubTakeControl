@@ -1,4 +1,3 @@
-"""
 # Subdomain Takeover Checker
 
 This script checks for subdomain takeover vulnerabilities on GitHub Pages.
