@@ -7,7 +7,7 @@ This script checks for subdomain takeover vulnerabilities on GitHub Pages.
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/crynomor3/SubTakeControl.git
+git clone https://github.com/crynomore/SubTakeControl.git
 cd subdomain-takeover-checker
 ```
 
